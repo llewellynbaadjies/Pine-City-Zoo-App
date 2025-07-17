@@ -23,7 +23,7 @@ Launch the utility: <br/>
 <br />
 <br />
 Select the disk:  <br/>
-<img src="https://i.imgur.com/tcTyMUE.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img width="80%" height="80%" alt="Imagemap" src="https://github.com/user-attachments/assets/9039f195-1966-45ab-bfec-f1bc61c4a38d" />
 <br />
 <br />
 Enter the number of passes: <br/>
