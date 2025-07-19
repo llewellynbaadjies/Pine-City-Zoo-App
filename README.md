@@ -23,7 +23,7 @@ Home\Map: <br/>
 <br />
 <br />
 Select the disk:  <br/>
-<img width="80%" height="80%" alt="Imagemap" src="https://github.com/user-attachments/assets/9039f195-1966-45ab-bfec-f1bc61c4a38d" />
+<img width="80%" height="80%" alt="Imagemap"https://private-user-images.githubusercontent.com/192953850/467556285-613a5105-70cb-41db-80de-46798cc6a047.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NTI5MzE4MDUsIm5iZiI6MTc1MjkzMTUwNSwicGF0aCI6Ii8xOTI5NTM4NTAvNDY3NTU2Mjg1LTYxM2E1MTA1LTcwY2ItNDFkYi04MGRlLTQ2Nzk4Y2M2YTA0Ny5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjUwNzE5JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI1MDcxOVQxMzI1MDVaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT01ZjdlM2Q1Njg1ODAwMjg1YzYwNjQzYjUxN2E3ZmFhMmZmZGM0YTY4MzI0ZGI0ODczNDYwMWY0OTVmMmE0NWNkJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.LU2p3MpMdX0hw_JpLLUinEWzDFPRgvD-l6lXWFHVAXI/>
 <br />
 <br />
 Enter the number of passes: <br/>
