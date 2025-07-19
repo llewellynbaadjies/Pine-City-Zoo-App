@@ -23,7 +23,8 @@ Home\Map: <br/>
 <br />
 <br />
 Select the disk:  <br/>
-<img src="https://private-user-images.githubusercontent.com/192953850/467556285-613a5105-70cb-41db-80de-46798cc6a047.png?" />
+<img src="https://private-user-images.githubusercontent.com/192953850/467556285-613a5105-70cb-41db-80de-46798cc6a047.png? height="80%"
+ width="80%" "/>
 <br />
 <br />
 Enter the number of passes: <br/>
